@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Christina 👋
 
-<!--
-**christina3099/christina3099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Data Scientist | AI/ML Enthusiast | On A Spree to create something impactful for the society  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: AI-powered projects & DSA mastery  
+- 🌱 Learning: Advanced Machine Learning, System Design  
+- 👯 Looking to collaborate on: AI/ML projects, Open Source contributions  
+- 💬 Ask me about: Data Science, Deep Learning, Python, and AI applications  
+- ⚡ Fun fact: I love combining creativity 🌸 + logic 💡 + a piece of my heart 💖 in everything I do!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, SQL  
+- **ML/AI:** TensorFlow, PyTorch, Scikit-learn  
+- **Web Dev:** Streamlit  
+- **Tools:** Git, Azure AI  
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn]([https://www.linkedin.com/in/christina-stalin-612457154/])  
+- 📧 Email: christina.vinu1996@gmail.com 
+- 🌟 [Kaggle]((https://www.kaggle.com/christinastalin))
+
