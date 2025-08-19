@@ -1,6 +1,6 @@
 ## Hi there, I'm Christina 👋
 
- Data Scientist | AI/ML Enthusiast | On A Spree to create something impactful for the society  
+ Data Scientist | AI/ML Enthusiast | On A Spree to create something meaningful for the society  
 
 - 🔭 I’m currently working on: AI-powered projects & DSA mastery  
 - 🌱 Learning: Advanced Machine Learning, System Design  
@@ -19,7 +19,7 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/christina-stalin-612457154/])  
-- 📧 Email: christina.vinu1996@gmail.com 
-- 🌟 [Kaggle]((https://www.kaggle.com/christinastalin))
+- 💼 [LinkedIn](https://www.linkedin.com/in/christina-stalin-612457154/)  
+- 📧 Email: christina.vinu1996@gmail.com  
+- 🌟 [Kaggle](https://www.kaggle.com/christinastalin)  
 
