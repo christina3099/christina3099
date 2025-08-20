@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: AI-powered projects & DSA mastery  
 - 🌱 Learning: Advanced Machine Learning, System Design  
 - 👯 Looking to collaborate on: AI/ML projects, Open Source contributions  
-- 💬 Ask me about: Data Science, Deep Learning, Python, and AI applications  
+- 💬 Ask me about: Data Science, Coffee, Life.. anything. 
 - ⚡ Fun fact: I love combining creativity 🌸 + logic 💡 + a piece of my heart 💖 in everything I do!  
 
 ---
